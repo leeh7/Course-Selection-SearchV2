@@ -8,6 +8,6 @@ This app generates a suggested schedule based on user school profile accessed vi
 
 
 # Note
-Project is not complete and still has some bugs to iron out as time conflicts do occasionally still happen with generated schedules.
+Project is mostly done, but not fully complete. There are some bugs to iron out as time conflicts do occasionally still happen with generated schedules.
 
-Completed at April of 2016.
+Project as of April 2016.
