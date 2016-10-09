@@ -9,5 +9,5 @@ This app generates a suggested schedule based on user school profile accessed vi
 
 # Note
 Project is mostly done, but not fully complete. There are some bugs to iron out as time conflicts do occasionally still happen with generated schedules.
-
+ 
 Project as of April 2016.
